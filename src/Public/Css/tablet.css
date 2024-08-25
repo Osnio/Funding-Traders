@@ -1,0 +1,366 @@
+@charset "UTF-8";
+
+@media screen and (min-width:768px) and (max-width:992px ) {
+    header{
+        width: 100%;
+    }
+    .bipolar{
+        display: flex;
+    }
+
+    .bipolar img:nth-child(1){
+        margin-left: 35px;
+    }
+    .bipolar p:nth-child(4){
+        border: none;
+        margin-left: 25px;
+    } 
+    .bipolar p:nth-child(3){
+        margin-left: 20px;
+    }
+    .us{
+        display: none
+    }
+    .bipolar .get .butt01{
+        width: 80%;
+        margin-left: 25px;
+        border: none;
+    }
+    .funding{
+        flex-wrap: wrap;
+        height: 900px;
+    }
+    .radical-box{
+        top: 535.5px;
+        height: 280px;
+
+    }
+    .trade{
+        width: 100%;
+    }
+    .trade h4{
+        text-align: center;
+    }
+    .trade h1{
+        width: 70%;
+        text-align: center;
+    }
+    .checkd{
+        width: 30%;
+        padding-top: 23px;
+        margin: auto;
+    }
+    .trade .butt00{
+        padding: 30px 0;
+        margin: auto;
+        gap: 8px;
+    }
+    .funding  .imagem{
+        position: relative; 
+        width: 100%; 
+        height: 814px; 
+        overflow: hidden;
+        border-radius: 0;
+        padding-bottom: 60px;
+        padding: 0;
+        display: flex;
+        margin: auto;
+        z-index: 1;
+    }
+    .funding  .imagem img{
+        width: 700px;
+        margin: auto;
+    }
+    .yahoo{
+        font-size: 1.2em;
+    }
+    .k{
+        width: 87%;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .k .party{
+        gap: 20px;
+    }
+    .k .party p, .k .gueto span{
+        padding: 10px 0;
+        width: 270px;
+        border: 1px solid snow;
+        border-radius: 30px;
+    }
+    .gueto{
+        display: flex;
+        margin-right: 294px;
+        justify-content: right;
+    }
+    .fire{
+        display: grid;
+        gap: 1px;
+        border: solid 1.5px rgba(213, 210, 230, .1);
+    }
+    .card0{
+        margin: auto;
+        width: 80%;
+    }
+    .card0 .butt01{
+        width: 60%;
+        display: flex;
+    }
+    .card0 .butt01 button{
+        width: 100%;
+        padding: 15px ;
+    }
+
+    .card01, .card02{
+        display: none;
+    }
+    .mobile{
+        width: 93%;
+        padding: 10px 20px;
+        border-radius: 10px;
+        margin: 0 auto;
+        display: block;
+        justify-content: center;
+    }
+    .mobile h3{
+        text-indent: 40px;
+        font-weight: bolder;
+    }
+    .mobile01{
+        display: flex;
+        gap: 15px;
+    }
+
+    .mobile01 p{
+        margin: 5px 0 7px 0;
+    }
+    .mobile .mobile01 .check p{
+        margin: 10px 0;
+        width: 175px;
+    }
+    .bica{
+        width: 100%;
+        display: flex;
+        margin-top: 50px;
+        gap: 80px;
+        align-items: center;
+    }
+    .bica .butt01{
+        width: 25%;
+    }
+    .bica .butt01 button{
+        width: 500px;
+        color: var(--corP);
+    }
+    .beg{
+       display: block;
+   }
+   .beg p{
+       line-height: 25px;
+       font-size: 14px;
+   }
+   .process{
+       margin-top: 45px;
+   }
+   .process h1{
+       font-size: 2.4em;
+   }
+   .process p{
+       font-size: 18px;
+   }
+   .been{
+       display: none;
+   }
+   .phase{
+       width: 80%;
+   }
+   .System{
+       width: 90%;
+       margin: auto;
+       padding: 40px 0 5px;
+       gap: 1px;
+       flex-wrap: wrap;
+    }
+   .rise{
+       margin-top: 40px;
+   }
+   .rise .computer img{
+       width: 600px;
+   }
+   .Bank{
+       margin-top: 10px;
+       width: 100%;
+   }
+   .prop{
+       margin-top: 10px;
+       padding: 10px 0 0;
+   }
+   .prop h1{
+       font-size: 2.5em;
+   }
+   .levy0 .summer{
+       width: 92%;
+       gap: 50px;
+       align-items: center;
+       margin: auto;
+       gap: 40px;
+       border: solid black;
+   }
+   .code01 h1{
+       margin-top: 15px;
+       font-size: 18px;
+   }
+   .levy0 .code01 .kiss{
+       width: 330px;
+   }
+   .summer .code{
+       align-items: center;
+       height: 100%;
+   }
+   .tropa{
+       width: 100%;
+       padding-left: 0;
+       justify-content: center;   
+   }
+   .tropa .summer0{
+       width: 45%;
+       border: solid black;
+   }
+   .code0 p{
+       width: 85%;
+   }
+   .tropa .summer0 .code{
+       margin-left: 30px;
+    }
+    .tropa .summer0 .code img:nth-child(1){
+       margin-right: 80px;
+   }
+   .mother .default .funded h1{
+       width: 80%;
+       font-size: 3em;
+   }
+   .mother .default .funded p{
+        font-size: 18px;
+        width: 80%;
+   }
+   .mother .default .funded .pain{
+       width: 40%;
+   }
+   .mother .default .funded .pain p{
+       width: 20%;
+   }
+   .mother .Daily .balance{
+        width: 70%;
+        font-size: 14px;
+   }
+   .mother .Daily .balance h1{
+       padding: 20px 13px;
+       top: -30px;
+    }
+    .included .butt01 button{
+        width: 25%;
+    }
+    .budget{
+        font-size: 1.8em;
+        margin: 20px 0;
+    }
+    .budget h1{
+        width: 90%;
+    }
+    .father{
+        margin: auto;
+    }
+    .father .joro{
+        width: 50%;
+    }
+    .father .joro .kid{
+        padding-right: 90px;
+    }
+    .joro0{
+        width: 80%;
+        padding-right: 200px;
+    }
+    .joro1{
+        width: 88%;
+        font-size: 15px;
+        padding-left:70px;
+    }
+    .mendez h1{
+        width: 90%;
+        font-size: 3em;
+   }
+   .fumado{
+       flex-wrap: wrap;
+       padding: 0;
+       gap: 0;
+    }
+    .others{
+        width: 46%;
+   }
+   .others:nth-child(1), .others:nth-child(2){
+       width: 46%;
+       border: solid black 5px;
+       margin: auto;
+   }
+   .others:nth-child(3){
+       width: 50%;
+       margin-left: 10px;
+   }
+   video{
+       margin-top: 80px;
+   }
+   .see{
+       top: -400px;
+   }
+   .see h1{
+       width: 98%;
+       font-size: 2.4em;
+   } 
+   .perry0{
+       bottom: 300px;
+   }
+   .frace{
+        font-size: 1em;
+   }
+   .Adrien{
+       width: 390px;
+   }
+   .frequently{
+       margin-top: 350px;
+   }
+   .frequently img{
+       width: 240px;
+       top: -30px ;
+   }
+   .frequently h1{
+        font-size: 2.3em;
+   }
+   .mais{
+       padding: 10px 15px;
+       width: 3%;
+   }
+   .mais p{
+       font-size: 20px;
+   }
+   .today h1{
+       font-size: 2.5em;
+   }
+   .today .capital .butt01{
+        width: 170px;
+   }
+   .sings{
+        display: none;
+   }
+   .join0{
+       display: block;
+   }
+   .join0 .us{
+       display: flex;
+   }
+   .message{
+       padding: 13px 10px;
+       left: 91%;
+   }
+
+   
+}
